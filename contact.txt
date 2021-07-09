@@ -1,0 +1,7 @@
+Thomas  1.65
+Peter   1.75
+William 1.80
+Patrick 1.90
+May 1.6
+June    1.65
+Linda   1.70
